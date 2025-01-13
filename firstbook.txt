@@ -1,6 +1,9 @@
-<<<<<<< HEAD
-this is my first published book
 Qusai is editing here 
-=======
+
+
 this is my second published book from 2024
->>>>>>> hotfix
+
+
+Josh is editing here
+
+
